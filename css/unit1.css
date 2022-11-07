@@ -1,0 +1,27 @@
+*{
+    font-family: 'Montserrat', arial, serif;
+    animation: body linear  infinite alternate;
+    webkit-animation: body  linear  infinite alternate;
+    box-sizing: border-box;
+    background-color: #ecb985;
+}
+body{
+    text-align: center;
+    box-shadow: #050505;
+    border: 10px;
+    margin: 40px;
+
+}
+footer{
+    padding: 2px;
+    font-style: italic;
+    width: border-box;
+    margin: 10px;
+}
+a{
+    padding: 2px 1px;
+
+    margin: 3px;
+    border: 1px solid #050505;
+    color: #050505;
+}

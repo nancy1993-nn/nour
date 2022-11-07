@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+}
+
+.content {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    background-image:url("https://static.vecteezy.com/system/resources/previews/003/754/815/non_2x/background-with-chemistry-and-education-themes-vector.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.hero-inner .button {
+    display: block;
+    border-color:black;
+    border-style:solid;
+    border-width: 4px;
+    width: 300px;
+    height: 35px;
+    margin: auto;
+    text-decoration: none;
+    color: black;
+    background-color: #dfc9de;
+    border-radius: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+}
+
+/*.hero-inner .button:hover {*/
+/*    display: block;*/
+/*    border-color: #e7cad4;*/
+/*    border-style:solid;*/
+/*    border-width: 3px;*/
+/*    width: 200px;*/
+/*    height: 40px;*/
+/*    margin: auto;*/
+/*    text-decoration: none;*/
+/*    color: deeppink;*/
+/*    background-color: #dfc9de;*/
+/*    border-radius: 10px;*/
+/*    font-family: 'Oswald', sans-serif;*/
+/*    font-size: 20px;*/
+/*}*/
+
+h1 {
+    font-size: 36px;
+    font-family: 'Short-Stack', cursive;
+    text-shadow: 1px 2px 3px orange;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: 'Shizuru', cursive;
+}
